@@ -26,3 +26,4 @@ Copie a sua chave SSH
   xclip -sel clip < id_rsa.pub
 
 Adicione sua chave à sua conta no GitHub
+

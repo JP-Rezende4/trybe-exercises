@@ -104,3 +104,8 @@
     - CSS
     - JavaScript
     
+11) Volte para a branch principal e puxe as alterações para seu repositório local
+
+  git checkout main
+  git pull origin main
+
