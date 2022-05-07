@@ -5,7 +5,7 @@
 02) Verifique se não existe nada sem "commitar"
   Caso exista algo, verifique se é necessário e faça o commit, ou remova-o
 
-  git commit -am "Correções no dia 2.1"
+  git commit -am "Correção no dia 2.2"
   git push origin main
 
 03) Crie uma nova branch com o nome trybe-skills-changes e faça checkout nela
