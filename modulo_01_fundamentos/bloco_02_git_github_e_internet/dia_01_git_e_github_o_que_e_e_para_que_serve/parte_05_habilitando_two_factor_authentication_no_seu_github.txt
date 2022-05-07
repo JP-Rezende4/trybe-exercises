@@ -1,0 +1,4 @@
+Habilite o Two Factor Authentication no seu GitHub
+
+  https://docs.github.com/pt/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication
+

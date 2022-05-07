@@ -1,0 +1,28 @@
+Gerando uma chave SSH
+
+Crie uma nova chave SSH, usando o seu email como rótulo
+  É preciso que o e-mail informado seja o mesmo que você utilizou para criar a sua conta no GitHub
+
+  ssh-keygen -t rsa -b 4096 -C "jpdr.rezende4@gmail.com"
+  // Pressione Enter
+  // Digite e confirme uma senha segura
+
+Adicionando sua chave SSH ao ssh-agent
+
+Primeiro você deve iniciar o ssh-agent em background
+
+  eval "$(ssh-agent -s)"
+  cd .ssh
+
+Agora você deve adicionar sua chave privada SSH ao ssh-agent
+
+  ssh-add id_rsa
+
+Adicionando a chave SSH na sua conta do GitHub
+
+Copie a sua chave SSH
+
+  sudo apt-get install xclip
+  xclip -sel clip < id_rsa.pub
+
+Adicione sua chave à sua conta no GitHub

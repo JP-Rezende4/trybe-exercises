@@ -1,0 +1,16 @@
+Instalação
+
+Linux
+
+1) Este comando irá atualizar a lista de pacotes e programas que podem ser instalados, em seguida, irá baixar e instalar os pacotes de atualização dos programas que estão instalados
+
+  sudo apt update && sudo apt upgrade
+
+2) Agora utilizaremos o comando que fará a instalação do curl
+
+  sudo apt install curl
+
+3) Por fim cheque novamente a versão do curl para garatirmos que tudo foi instalado corretamente
+
+  curl --version
+

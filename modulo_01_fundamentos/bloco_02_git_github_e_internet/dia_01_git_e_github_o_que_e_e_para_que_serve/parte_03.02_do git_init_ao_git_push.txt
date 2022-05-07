@@ -1,0 +1,33 @@
+Conectando o repositório local com o remoto
+
+Crie um novo repositório no GitHub e copie a URL gerada
+
+Crie um repositório local
+
+  cd trybe-exercises
+  git init
+
+Faça o commit para depois enviar as alterações
+
+  git add .
+  git commit -m "Initial commit"
+
+Renomeie a branch master para main, e depois conecte com o repositório remoto
+  
+  git branch -M main
+  git remote add origin git@github.com:JP-Rezende4/trybe-exercises.git
+
+Verifique se tudo funcionou corretamente
+
+  git remote -v
+
+Sincronizando os repositórios
+
+Verifique se as alterações já foram adicionadas e comitadas
+
+  git status
+
+Envie essas alterações para o respositório remoto
+
+  git push origin main
+

@@ -1,0 +1,39 @@
+Crie um arquivo .txt com o nome trybe-skills e utilize o conteúdo abaixo
+
+  cat > trybe-skills.txt
+  O que eu vou aprender na Trybe:
+  
+  - Unix
+  - Bash
+  - Git
+
+Crie um arquivo de README
+
+  touch README.md
+
+Crie um commit inicial
+
+  git add .
+  git commit -m "Adiciona README"
+
+Verifique se tudo está certo com sua URL remota
+
+  git remote -v
+
+Envie essas alterações para o respositório remoto
+
+  git push origin main
+
+Edite o arquivo README
+
+  cat > README.md
+
+Adicione um arquivo README para cada diretório de exercicios do dia
+
+  cat > README.md
+
+Faça um commit, um push e confira as alterações no GitHub
+
+  git commit -am "Adiciona README para cada diretório de exercícios"
+  git push origin main
+
