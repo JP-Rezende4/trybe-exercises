@@ -1,0 +1,35 @@
+1) Abra a pasta de exercícios
+
+  cd trybe-exercises
+
+2) Caso você tenha arquivos modificados e não comitados, deverá fazer um commit. Certifique-se de que está na branch main e ela está sincronizada com a remota
+
+  git status
+  git checkout main
+  git pull origin main
+
+3) A partir da main, crie uma branch com o nome exercicios/3.1 (bloco 3, dia 1)
+
+  git checkout -b exercicios/3.1
+
+4) Crie ou acesse o diretório do dia
+
+  cd dia_01_html_e_css_estruturas_de_pagina
+
+5) Lembre-se de fazer commits pequenos e com mensagens bem descritivas, preferencialmente a cada exercício resolvido
+
+  git add .
+  git commit -m "Mensagem descrevendo alterações"
+
+6) Você pode visualizar o log de todos os commits já feitos naquela branch com git log
+
+  git log
+
+7) Agora que temos as alterações salvas no repositório local precisamos enviá-las para o repositório remoto. No primeiro envio, a branch exercicios/3.1 não vai existir no repositório remoto, então precisamos configurar o remote utilizando a flag -u
+
+  git push -u origin exercicios/3.1
+
+8) Após realizar o passo 7, podemos abrir a Pull Request a partir do link que aparecerá na mensagem do push no terminal, ou na página do seu repositório de exercícios no GitHub através de um botão que aparecerá na interface. Escolha a forma que preferir e abra a Pull Request. De agora em diante, você repetirá o fluxo a partir do passo 5 para cada exercício adicionado, porém como já definimos a branch remota com -u anteriormente, agora podemos simplificar os comandos para
+
+  git push
+
