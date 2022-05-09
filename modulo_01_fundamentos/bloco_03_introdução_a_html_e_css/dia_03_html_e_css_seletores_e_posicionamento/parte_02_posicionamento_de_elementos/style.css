@@ -4,10 +4,13 @@
 
 .goomba {
   width: 100px;
+  position: absolute;
+  left: 140px;
+  top: 340px;
 }
 
 .baloon {
-  
+
 }
 
 .speach {
