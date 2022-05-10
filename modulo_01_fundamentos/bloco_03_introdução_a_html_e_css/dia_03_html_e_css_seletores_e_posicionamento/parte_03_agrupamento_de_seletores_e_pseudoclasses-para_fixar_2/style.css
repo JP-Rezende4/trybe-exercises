@@ -1,1 +1,7 @@
+div {
+  padding: 5px;
+}
 
+div:hover {
+  border: 2px solid black;
+}
