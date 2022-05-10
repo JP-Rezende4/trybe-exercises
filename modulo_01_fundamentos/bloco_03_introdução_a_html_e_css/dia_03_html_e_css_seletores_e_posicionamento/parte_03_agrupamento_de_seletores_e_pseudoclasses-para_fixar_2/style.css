@@ -27,3 +27,23 @@ div:nth-of-type(4) {
 div:nth-of-type(5) {
   background-color: #6FFFE9;
 }
+
+div:nth-child(1) h3 {
+  color: lightblue;
+}
+
+div:nth-child(2) h3 {
+  color: lightcoral;
+}
+
+div:nth-child(3) h3 {
+  color: lightcyan;
+}
+
+div:nth-child(4) h3 {
+  color: lightgoldenrodyellow;
+}
+
+div:nth-child(5) h3 {
+  color: lightgray;
+}
