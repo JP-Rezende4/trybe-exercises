@@ -1,7 +1,29 @@
 div {
   padding: 5px;
+  color: white;
 }
 
 div:hover {
-  border: 2px solid black;
+  border: 2px solid gray;
+  transition: 150ms;
+}
+
+div:nth-of-type(1) {
+  background-color: #1E2529;
+}
+
+div:nth-of-type(2) {
+  background-color: #3A506B;
+}
+
+div:nth-of-type(3) {
+  background-color: #5BC0BE;
+}
+
+div:nth-of-type(4) {
+  background-color: #0B132B;
+}
+
+div:nth-of-type(5) {
+  background-color: #6FFFE9;
 }
