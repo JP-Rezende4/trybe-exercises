@@ -18,6 +18,8 @@ div:nth-of-type(2) {
 
 div:nth-of-type(3) {
   background-color: #5BC0BE;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
 div:nth-of-type(4) {
