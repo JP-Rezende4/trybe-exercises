@@ -12,12 +12,18 @@
         text-align: center;
       }
     
+      ul {
+        list-style: none;
+        padding: 0px;
+      }
+    
       .first {
         background-color: rgb(235, 200, 84);
         font-size: 20px;
         height: 50px;
         text-align: center;
         width: 200px;
+        margin: auto;
       }
     
       .second {
@@ -26,6 +32,8 @@
         height: 50px;
         text-align: center;
         width: 300px;
+        display: inline-block;
+        margin-left: 30%;
       }
     
       .third {
@@ -34,6 +42,15 @@
         height: 50px;
         text-align: center;
         width: 300px;
+        display: inline-block;
+      }
+    
+      .prizes {
+        text-align: center;
+      }
+    
+      ul.list-inline li {
+        display: inline;
       }
     
     </style>
@@ -62,11 +79,11 @@
     
     </section>
   
-    <section>
+    <section class="prizes">
     
       <h3>Premiação Primeiro Lugar:</h3>
     
-      <ul>
+      <ul class="list-inline">
       
         <li>| R$ 1000,00 por integrante da equipe |</li>
       
@@ -76,7 +93,7 @@
     
       <h3>Premiação Segundo Lugar:</h3>
     
-      <ul>
+      <ul class="list-inline">
       
         <li>| R$ 600,00 por integrante da equipe |</li>
       
@@ -86,7 +103,7 @@
     
       <h3>Premiação Terceiro Lugar:</h3>
     
-      <ul>
+      <ul class="list-inline">
       
         <li>| R$ 300,00 por integrante da equipe |</li>
       
