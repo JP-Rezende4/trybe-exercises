@@ -1,0 +1,8 @@
+Entre neste site, que valida se sua página é acessível ou não. Para isso, você deverá copiar o código HTML e colar na caixa em baixo de "Run your code through the Sniffer"
+
+  https://squizlabs.github.io/HTML_CodeSniffer/
+
+Ao submeter o código, você vai se deparar com erros de validação presentes em sua página, dando início a seu segundo exercício: consertar todos os erros apontados
+
+Para cada erro de validação mostrado, você tem à disposição um link para a página com sua descrição. Antes de voltar para o código e já ir consertando, leia a descrição de cada erro para entendê-lo e poder consertá-lo
+
