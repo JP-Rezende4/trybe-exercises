@@ -2,7 +2,7 @@ body {
   background-color: #1E2529;
   color: white;
   text-align: justify;
-  width: 60%;
+  width: 80%;
   margin: auto;
 }
 
@@ -26,6 +26,30 @@ img {
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
+}
+
+li {
+  list-style: none;
+  text-align: center;
+}
+
+aside {
+  position: relative;
+  bottom: 410px;
+  left: 300px;
+}
+
+aside h3 {
+  text-align: left;
+}
+
+.section-line {
+  border-top: 2px solid #3A506B;
+}
+
+.side-video {
+  display: inline-block;
+  width: 40%;
 }
 
 a:hover {
