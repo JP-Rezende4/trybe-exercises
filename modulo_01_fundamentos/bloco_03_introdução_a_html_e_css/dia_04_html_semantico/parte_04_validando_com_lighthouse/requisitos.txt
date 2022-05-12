@@ -1,0 +1,8 @@
+1) Abra o DevTools
+
+2) No menu superior haverão várias abas, a que queremos se chama Lighthouse. Caso ela esteja escondida, procure por um botão com o ícone similar a >>
+
+3) Ao fazer isso aparecerá um painel onde é possível escolher o que queremos testar e gerar o relatório
+
+4) Através do relatório podemos corrigir os problemas
+
