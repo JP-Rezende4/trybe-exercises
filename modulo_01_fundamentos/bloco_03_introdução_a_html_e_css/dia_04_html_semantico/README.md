@@ -14,6 +14,6 @@ Essa representação, esse sentido que um elemento HTML carrega acerca de seu co
 
 Saber aplicar elementos HTML de acordo com o sentido e o propósito que cada um deles carrega, além de reforçar a minha capacidade para modelagem de um problema, resulta em páginas melhor ranqueadas em motores de busca (e.g. Google) e mais acessíveis.
 
-## Recursos adicionais
+## Recursos adicionais:
 
 [Course](https://app.betrybe.com/course/fundamentals/introducao-a-html-e-css/html-semantico/44aebf26-1248-437e-a69c-f73ae7ed0ea8/recursos-adicionais-opcional/d5c63e98-d15b-417a-8867-9f999841a271?use_case=side_bar)

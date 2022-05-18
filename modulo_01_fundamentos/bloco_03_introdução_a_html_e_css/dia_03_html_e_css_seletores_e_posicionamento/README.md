@@ -14,6 +14,6 @@ Além de estilos e tamanhos, o CSS também é responsável pelo layout da págin
 
 Seletores de pseudoclasses permitem que eu adicione lógica condicional de estilização.
 
-## Recursos adicionais
+## Recursos adicionais:
 
 [Course](https://app.betrybe.com/course/fundamentals/introducao-a-html-e-css/html-css-seletores-e-posicionamento/e286e97a-3e07-4d8c-aacc-2f28182f3aae/recursos-adicionais-opcional/a3723918-597b-4500-91a4-01768e2fb063?use_case=side_bar)

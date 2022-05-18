@@ -18,6 +18,6 @@ O HTML e o CSS são duas das pedras fundamentais no desenvolvimento web. São du
 
 É como se o HTML fosse o esqueleto da minha página. É através do HTML que irei criar a estrutura de como a página vai ser exibida, definindo quais tags servirão para títulos, subtítulos, parágrafos, e outros conteúdos ricos como links, imagens, vídeos etc.
 
-## Recursos adicionais
+## Recursos adicionais:
 
 [Course](https://app.betrybe.com/course/fundamentals/introducao-a-html-e-css/html-css-estruturas-de-pagina/43afcfb3-f3c5-4dc0-b60f-fab893d76cd3/recursos-adicionais-opcional/5d939031-621d-4a73-b85e-cb4e381b12e3?use_case=side_bar)

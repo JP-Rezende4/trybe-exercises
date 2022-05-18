@@ -19,6 +19,6 @@ Como uma pessoa que irá desenvolver software para a internet, conhecer o seu fu
 
 Atualmente, a grande maioria das aplicações web são desenvolvidas usando o modelo Cliente & Servidor. Preciso entender esse modelo para entender como o software que irei desenvolver se encaixa nele. Preciso, em suma, saber como os servidores funcionam, para quando for colocar um projeto "no ar", ou "em produção".
 
-## Recursos adicionais
+## Recursos adicionais:
 
 [Course](https://app.betrybe.com/course/fundamentals/git-github-e-internet/internet-entendendo-como-ela-funciona/7f95c1f2-3cce-4631-81a6-ae2f6c34a8c1/recursos-adicionais-opcional/bbb55e8a-7f27-401f-861f-14e6ae9586e2?use_case=side_bar)

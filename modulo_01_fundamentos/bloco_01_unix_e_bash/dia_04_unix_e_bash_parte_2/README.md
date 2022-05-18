@@ -19,10 +19,10 @@ Quando se trabalha usando o terminal, cada comando é executado dentro de um pro
 
 Conhecer sobre permissões é uma outra habilidade importante para garantir que os arquivos na máquina (códigos, configurações, etc) não sejam alterados ou executados por pessoas indesejadas.
 
-## Tabela de comandos
+## Tabela de comandos:
 
 [Course](https://app.betrybe.com/course/fundamentals/unix-bash-e-shell-script/unix-bash-parte-2/90c1ecf4-8342-4bf3-8323-fca77cde5515/conteudos/0ef8f660-51ce-48bf-82f1-56ca2daa705c/recapitulando/f450ac9e-1846-44ba-9bd9-4920ea0ec655?use_case=side_bar)
 
-## Recursos adicionais
+## Recursos adicionais:
 
 [Course](https://app.betrybe.com/course/fundamentals/unix-bash-e-shell-script/unix-bash-parte-2/90c1ecf4-8342-4bf3-8323-fca77cde5515/recursos-adicionais-opcional/28e65866-ea30-4484-b6db-77af48527f5b?use_case=side_bar)

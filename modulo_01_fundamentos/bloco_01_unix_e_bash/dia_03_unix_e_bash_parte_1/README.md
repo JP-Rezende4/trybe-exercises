@@ -22,10 +22,10 @@ No desenvolvimento de software, é muito importante entender como interagir de f
 
 Na maioria das vezes, principalmente por questões de custo, performance e facilidade de interação através do terminal, sistemas operacionais baseados em Unix são indicados como a melhor opção para hospedar projetos Web.
 
-## Tabela de comandos
+## Tabela de comandos:
 
 [Course](https://app.betrybe.com/course/fundamentals/unix-bash-e-shell-script/unix-bash-parte-1/f796f507-dc08-4693-a3d0-a3ffaa36b53b/conteudos/92b22654-9262-4784-b6e4-245c3acaa2bb/recapitulando/76048b71-96ed-4a45-b477-f46e72341a7a?use_case=side_bar)
 
-## Recursos adicionais
+## Recursos adicionais:
 
 [Course](https://app.betrybe.com/course/fundamentals/unix-bash-e-shell-script/unix-bash-parte-1/f796f507-dc08-4693-a3d0-a3ffaa36b53b/recursos-adicionais-opcional/59709f15-aef0-4260-ae3e-f350be8dbbaa?use_case=side_bar)

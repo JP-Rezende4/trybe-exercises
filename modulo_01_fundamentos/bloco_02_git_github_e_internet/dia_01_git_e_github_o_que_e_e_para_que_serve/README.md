@@ -21,7 +21,6 @@ Os principais pontos abordados foram:
 - Como subir meu repositório local para o GitHub?
 - O que é Branch, Merge, Commit?
 
-
 ## Me tornei capacitado para:
 
 - Instalar e configurar o Git no meu computador;
@@ -37,6 +36,6 @@ Utilizando o Git, meu time e eu vamos conseguir colaborar de forma assíncrona e
 
 O GitHub, ferramenta online que hospeda repositórios Git, é uma excelente ferramenta para toda a gestão do meu código, tendo recursos para acompanhamento de projeto ágil de software, controle de Issues, quadros Kanban, Pull Requests que permitem um Code Review mais bem feito, entre outras dezenas de integrações que vão facilitar minha vida com desenvolvimento de software.
 
-## Recursos adicionais
+## Recursos adicionais:
 
 [Course](https://app.betrybe.com/course/fundamentals/git-github-e-internet/git-github-o-que-e-e-para-que-serve/82dcab41-249a-4738-8920-f0eb2cb91d1c/recursos-adicionais-opcional/92fab3ee-defa-49c4-98a7-57ccf977d179?use_case=side_bar)

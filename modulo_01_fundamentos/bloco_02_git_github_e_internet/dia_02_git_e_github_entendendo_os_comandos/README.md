@@ -18,6 +18,6 @@ Entender o conceito de Git é uma das habilidades fundamentais que irei exercita
 
 Somente colocando em prática diariamente os conceitos do Git, que eu irei me aperfeiçoar no uso de repositórios e do versionamento de código!
 
-## Recursos adicionais
+## Recursos adicionais:
 
 [Course](https://app.betrybe.com/course/fundamentals/git-github-e-internet/git-github-entendendo-os-comandos/4d67f5b4-34a6-489f-a205-b6c7dc50fc16/recursos-adicionais-opcional/74641d3e-4f9e-448d-9daf-31c028b0681b?use_case=side_bar)
