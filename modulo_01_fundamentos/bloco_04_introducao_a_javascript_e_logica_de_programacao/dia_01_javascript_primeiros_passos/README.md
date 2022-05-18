@@ -26,13 +26,13 @@ Os principais pontos abordados foram:
 ## Por que isso é importante?
 
 Existem inúmeros motivos que atestam pela importância imensa desse passo, mas vou citar apenas três:
-1. JavaScript é popular. O JavaScript vem sendo, nos últimos 8 anos, a linguagem de programação mais popular do mundo, segundo a última pesquisa do Stack Overflow.Ele é responsável pela grande maioria das interações em tempo real na web que é possível nos dias de hoje. Sites que possuem interação por chat e as mensagens chegam "sozinhas"? Isso é JavaScript. Ao acessar diferentes perfis no Facebook o navegador não carrega a página do zero, mas somente o que de fato mudou? Também é JavaScript (com o React).
+1. JavaScript é popular. O JavaScript vem sendo, nos últimos 8 anos, a linguagem de programação mais popular do mundo, segundo a última pesquisa do Stack Overflow. Ele é responsável pela grande maioria das interações em tempo real na web que é possível nos dias de hoje. Sites que possuem interação por chat e as mensagens chegam "sozinhas"? Isso é JavaScript. Ao acessar diferentes perfis no Facebook o navegador não carrega a página do zero, mas somente o que de fato mudou? Também é JavaScript (com o React).
 2. JavaScript é versátil. O uso do JavaScript na Web é bem óbvio - é onde ele surgiu. No entanto, o JavaScript possui bibliotecas, frameworks e ambientes runtime que permitem utilizar JavaScript também para muitas outras coisas, como:
-  - Código que roda no servidor (back-end), com o Node, por exemplo;
-  - Acesso e manipulação de bancos de dados através de diversos drivers;
-  - Aplicativos mobile nativos, com o React Native, por exemplo;
-  - Aplicativos desktop, com o Electron, por exemplo.
-  - Todos esses usos já foram e são feitos por empresas de todos os portes. Aprender JavaScript é a porta para um mundo infinito de possibilidades.
+- Código que roda no servidor (back-end), com o Node, por exemplo;
+- Acesso e manipulação de bancos de dados através de diversos drivers;
+- Aplicativos mobile nativos, com o React Native, por exemplo;
+- Aplicativos desktop, com o Electron, por exemplo.
+- Todos esses usos já foram e são feitos por empresas de todos os portes. Aprender JavaScript é a porta para um mundo infinito de possibilidades.
 3. JavaScript é a base para o curso da Trybe. Por último, mas não menos importante, o JavaScript é o fundamento principal para a maior parte do curso da Trybe, tanto agora, no módulo de Fundamentos, quanto no módulo de Front-End e no de Back-End. É de vital importância ter uma boa base de JavaScript para entender React, Redux, Jest, Node e todas essas outras ferramentas que vou adicionar à minha caixa.
 
 Por fim, é muito importante aprender JavaScript e ter foco. Mas esse é só o primeiro passo no mundo da programação.
