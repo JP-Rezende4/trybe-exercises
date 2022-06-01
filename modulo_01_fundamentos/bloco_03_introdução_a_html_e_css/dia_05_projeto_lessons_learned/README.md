@@ -18,11 +18,9 @@ Criei uma página, do zero, utilizando HTML e CSS, com o objetivo de consolidar 
 
 HTML e CSS, juntamente com JavaScript, tópico que irei estudar posteriormente, formam a base do desenvolvimento web. Desse modo, construir um conhecimento sólido em relação a essas tecnologias é imprescindível para a boa formação profissional de qualquer pessoa.
 
-## Links para o projeto:
+## Link para o projeto:
 
-[GitHub]()
-
-[Página]()
+[Lessons Learned]()
 
 ## Recursos adicionais:
 

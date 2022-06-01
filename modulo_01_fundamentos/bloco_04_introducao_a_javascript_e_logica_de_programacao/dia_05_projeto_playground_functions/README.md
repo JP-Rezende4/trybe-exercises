@@ -10,4 +10,4 @@ Conseguir aplicar lógica de programação na prática utilizando o JavaScript �
 
 ## Link para o projeto:
 
-[GitHub]()
+[Playground Functions]()
