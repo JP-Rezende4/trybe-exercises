@@ -1,4 +1,15 @@
+const grade = Math.floor(Math.random() * 100) + 1;;
 let applicantStatus;
+
+console.log('Sua nota: ' + grade);
+
+if (grade >= 80) {
+  applicantStatus = 'aprovada';
+} else if (grade >= 60) {
+  applicantStatus = 'lista';
+} else {
+  applicantStatus = 'reprovada';
+}
 
 switch (applicantStatus) {
   case 'aprovada':
