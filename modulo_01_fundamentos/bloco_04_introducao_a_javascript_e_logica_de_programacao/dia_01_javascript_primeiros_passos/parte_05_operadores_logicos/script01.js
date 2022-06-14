@@ -2,6 +2,8 @@ const currentHour = Math.floor(Math.random() * (24 - 4 + 1) ) + 4;
 
 let message = '';
 
+console.log('São ' + currentHour + ' horas!');
+
 if (currentHour >= 22) {
   message = 'Não deveríamos comer nada, é hora de dormir';
 } else if (currentHour >= 18) {
