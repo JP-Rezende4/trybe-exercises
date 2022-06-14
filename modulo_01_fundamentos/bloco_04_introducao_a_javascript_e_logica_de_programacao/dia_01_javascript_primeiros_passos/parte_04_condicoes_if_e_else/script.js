@@ -1,5 +1,7 @@
 const grade = Math.floor(Math.random() * 100) + 1;;
 
+console.log('Sua nota: ' + grade);
+
 if (grade >= 80) {
   console.log('Parabéns, você foi aprovado(a)!');
 } else if (grade >= 60) {
