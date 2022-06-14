@@ -1,4 +1,4 @@
-const currentHour = 13;
+const currentHour = Math.floor(Math.random() * (24 - 4 + 1) ) + 4;
 
 let message = '';
 
