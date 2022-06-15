@@ -3,12 +3,16 @@ const saleValue = 20;
 const quantity = 1000;
 const tax = 0.2;
 
-const productTotal = productCost * quantity;
+if (productCost < 0 || saleValue < 0 || quantity < 0 || tax < 0) {
+  console.log('Valor(es) de entrada inválido(s)');
+} else {
+  const productTotal = productCost * quantity;
 
-const saleTotal = saleValue * quantity;
+  const saleTotal = saleValue * quantity;
 
-const totalCost = (productTotal) + (productTotal * tax);
+  const totalCost = (productTotal) + (productTotal * tax);
 
-const profit = saleTotal - totalCost;
+  const profit = saleTotal - totalCost;
 
-console.log(profit);
+  console.log(profit);
+}
