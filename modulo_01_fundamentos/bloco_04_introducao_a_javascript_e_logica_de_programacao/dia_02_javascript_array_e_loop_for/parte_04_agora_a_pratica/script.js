@@ -1,15 +1,15 @@
 let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 
 console.log('Requisito 1:');
-for (let i = 0; i < numbers.length; i += 1) {
-  console.log(numbers[i]);
+for (let number of numbers) {
+  console.log(number);
 }
 
 console.log('Requisito 2:');
 let sumOfNumbers = 0;
 
-for (let i = 0; i < numbers.length; i += 1) {
-  sumOfNumbers += numbers[i];
+for (let number of numbers) {
+  sumOfNumbers += number;
 }
 
 console.log(sumOfNumbers);
@@ -29,9 +29,9 @@ if (average > 20) {
 console.log('Requisito 5:');
 let highestNumber = numbers[0];
 
-for (let i = 0; i < numbers.length; i += 1) {
-  if (numbers[i] > highestNumber) {
-    highestNumber = numbers[i];
+for (let number of numbers) {
+  if (number > highestNumber) {
+    highestNumber = number;
   }
 }
 
@@ -40,8 +40,8 @@ console.log(highestNumber);
 console.log('Requisito 6:');
 let oddCount = 0;
 
-for (let i = 0; i < numbers.length; i += 1) {
-  if (numbers[i] % 2 !== 0) {
+for (let number of numbers) {
+  if (number % 2 !== 0) {
     oddCount += 1;
   }
 }
@@ -55,9 +55,9 @@ if (oddCount === 0) {
 console.log('Requisito 7:');
 let lowestNumber = numbers[0];
 
-for (let i = 0; i < numbers.length; i += 1) {
-  if (numbers[i] < lowestNumber) {
-    lowestNumber = numbers[i];
+for (let number of numbers) {
+  if (number < lowestNumber) {
+    lowestNumber = number;
   }
 }
 
@@ -70,11 +70,11 @@ for (let i = 1; i <= 25; i += 1) {
   numbers2.push(i);
 }
 
-for (let i = 0; i < numbers2.length; i += 1) {
-  console.log(numbers2[i]);
+for (let number of numbers2) {
+  console.log(number);
 }
 
 console.log('Requisito 9:');
-for (let i = 0; i < numbers2.length; i += 1) {
-  console.log(numbers2[i] / 2);
+for (let number of numbers2) {
+  console.log(number / 2);
 }
