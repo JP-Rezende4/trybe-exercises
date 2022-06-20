@@ -51,3 +51,14 @@ if (oddCount === 0) {
 } else {
   console.log(oddCount);
 }
+
+console.log('Requisito 7:');
+let lowestNumber = numbers[0];
+
+for (let i = 0; i < numbers.length; i += 1) {
+  if (numbers[i] < lowestNumber) {
+    lowestNumber = numbers[i];
+  }
+}
+
+console.log(lowestNumber);
