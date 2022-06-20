@@ -14,3 +14,7 @@ for (let i = 0; i < numbers.length; i += 1) {
 }
 
 console.log(sumOfNumbers);
+
+console.log('Requisito 3:');
+
+console.log(sumOfNumbers / numbers.length);
