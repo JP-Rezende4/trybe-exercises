@@ -1,5 +1,4 @@
 let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
-let sumOfNumbers = 0;
 
 console.log('Requisito 1:');
 for (let i = 0; i < numbers.length; i += 1) {
@@ -7,6 +6,8 @@ for (let i = 0; i < numbers.length; i += 1) {
 }
 
 console.log('Requisito 2:');
+let sumOfNumbers = 0;
+
 for (let i = 0; i < numbers.length; i += 1) {
   sumOfNumbers += numbers[i];
 }
@@ -24,3 +25,14 @@ if (average > 20) {
 } else {
   console.log('valor menor ou igual a 20');
 }
+
+console.log('Requisito 5:');
+let highestNumber = numbers[0];
+
+for (let i = 0; i < numbers.length; i += 1) {
+  if (numbers[i] > highestNumber) {
+    highestNumber = numbers[i];
+  }
+}
+
+console.log(highestNumber);
