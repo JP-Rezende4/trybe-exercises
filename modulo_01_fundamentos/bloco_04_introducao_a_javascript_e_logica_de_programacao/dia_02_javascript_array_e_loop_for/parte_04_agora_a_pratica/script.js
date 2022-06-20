@@ -73,3 +73,8 @@ for (let i = 1; i <= 25; i += 1) {
 for (let i = 0; i < numbers2.length; i += 1) {
   console.log(numbers2[i]);
 }
+
+console.log('Requisito 9:');
+for (let i = 0; i < numbers2.length; i += 1) {
+  console.log(numbers2[i] / 2);
+}
