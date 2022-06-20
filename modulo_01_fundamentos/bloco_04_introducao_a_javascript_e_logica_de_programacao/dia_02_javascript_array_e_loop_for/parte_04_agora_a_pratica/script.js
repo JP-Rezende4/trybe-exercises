@@ -36,3 +36,18 @@ for (let i = 0; i < numbers.length; i += 1) {
 }
 
 console.log(highestNumber);
+
+console.log('Requisito 6:');
+let oddCount = 0;
+
+for (let i = 0; i < numbers.length; i += 1) {
+  if (numbers[i] % 2 !== 0) {
+    oddCount += 1;
+  }
+}
+
+if (oddCount === 0) {
+  console.log('nenhum valor ímpar encontrado');
+} else {
+  console.log(oddCount);
+}
