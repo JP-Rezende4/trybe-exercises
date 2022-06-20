@@ -62,3 +62,14 @@ for (let i = 0; i < numbers.length; i += 1) {
 }
 
 console.log(lowestNumber);
+
+console.log('Requisito 8:');
+const numbers2 = [];
+
+for (let i = 1; i <= 25; i += 1) {
+  numbers2.push(i);
+}
+
+for (let i = 0; i < numbers2.length; i += 1) {
+  console.log(numbers2[i]);
+}
