@@ -31,16 +31,16 @@ function biggestNumber(n1, n2) {
 
 // Exercício 3
 function biggestInThreeNumbers(n1, n2, n3) {
-  const arrayNumbers = [n1, n2, n3];
+  const numbers = [n1, n2, n3];
   let result = n1;
 
   if (n1 === n2 && n2 === n3) {
     return 'Os números são iguais';
   }
 
-  for (let i = 0; i < arrayNumbers.length; i += 1) {
-    if (arrayNumbers[i] > result) {
-      result = arrayNumbers[i];
+  for (let number of numbers) {
+    if (number > result) {
+      result = number;
     }
   }
 
