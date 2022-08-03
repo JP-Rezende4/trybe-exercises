@@ -15,7 +15,6 @@ function calculator(n1, n2, operation) {
       return 'Operação inválida';
   }
 }
-// console.log(calculator(8, 4, '+'));
 
 // Exercício 2
 function biggestNumber(n1, n2) {
@@ -27,7 +26,6 @@ function biggestNumber(n1, n2) {
 
   return 'Os números são iguais';
 }
-// console.log(biggestNumber(8, 4));
 
 // Exercício 3
 function biggestInThreeNumbers(n1, n2, n3) {
@@ -46,7 +44,6 @@ function biggestInThreeNumbers(n1, n2, n3) {
 
   return result;
 }
-// console.log(biggestInThreeNumbers(8, 4, 2));
 
 // Exercício 4
 function isThisNumber(n) {
@@ -58,7 +55,6 @@ function isThisNumber(n) {
 
   return 'zero';
 }
-// console.log(isThisNumber(4));
 
 // Exercício 5
 function triangleCheck(n1, n2, n3) {
@@ -70,4 +66,3 @@ function triangleCheck(n1, n2, n3) {
 
   return false;
 }
-// console.log(triangleCheck(40, 40, 100));
