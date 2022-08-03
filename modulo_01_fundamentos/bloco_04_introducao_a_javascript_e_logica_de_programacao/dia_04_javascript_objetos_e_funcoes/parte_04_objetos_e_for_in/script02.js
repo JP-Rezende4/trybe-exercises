@@ -20,3 +20,5 @@ const novoLivro = {
 };
 
 leitor.livrosFavoritos.push(novoLivro);
+
+console.log(leitor.nome + ' tem ' + leitor.livrosFavoritos.length + ' livros favoritos');
