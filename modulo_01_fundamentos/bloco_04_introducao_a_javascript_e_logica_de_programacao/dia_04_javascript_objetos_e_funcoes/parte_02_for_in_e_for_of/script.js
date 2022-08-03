@@ -7,6 +7,7 @@ let names = {
 for (let name in names) {
   console.log('Olá ' + names[name]);
 }
+console.log();
 
 let car = {
   model: 'A3 Sedan',
