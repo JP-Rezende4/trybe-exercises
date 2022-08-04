@@ -47,6 +47,27 @@ function biggestName (array) {
 }
 
 // Exercício 5
+function mostRepeatedNumber(array) {
+  let result = array[0];
+  let prevCounter = 0;
+
+  for (let index1 in array) {
+    let curCounter = 0;
+
+    for (let index2 in array) {
+      if (array[index1] === array[index2]) {
+        curCounter += 1;
+      }
+    }
+
+    if (curCounter > prevCounter) {
+      prevCounter = curCounter;
+      result = array[index1];
+    }
+  }
+
+  return result;
+}
 
 // Exercício 6
 
