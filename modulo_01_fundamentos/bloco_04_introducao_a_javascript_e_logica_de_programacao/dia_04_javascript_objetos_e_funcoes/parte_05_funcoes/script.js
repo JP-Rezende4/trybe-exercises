@@ -8,6 +8,17 @@ function isPalindrome(string) {
 }
 
 // Exercício 2
+function indexOfBiggestValue(array) {
+  let result = 0;
+
+  for (let index in array) {
+    if (array[index] > array[result]) {
+      result = index;
+    }
+  }
+
+  return result;
+}
 
 // Exercício 3
 
