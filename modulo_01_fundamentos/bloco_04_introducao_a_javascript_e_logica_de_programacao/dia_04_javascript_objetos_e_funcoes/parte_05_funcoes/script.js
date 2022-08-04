@@ -34,6 +34,17 @@ function indexOfSmallestValue(array) {
 }
 
 // Exercício 4
+function biggestName (array) {
+  let result = array[0];
+
+  for (let name of array) {
+    if (name.length > result.length) {
+      result = name;
+    }
+  }
+
+  return result;
+}
 
 // Exercício 5
 
